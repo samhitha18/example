@@ -1,0 +1,40 @@
+/* h1
+{
+    font-style: "Lucida Sans Unicode"; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
+}
+h2
+{
+    font-style: "Lucida Sans Unicode"; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
+}
+h3
+{
+    font-style: "Lucida Sans Unicode"; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+} */
+body
+{
+    /* font-style: "Lucida Sans Unicode"; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; */
+    font-family: 'Dancing Script', cursive;
+    background-color: black;
+    color: white;
+    /* border-left-width: 150px; */
+    border:solid aqua;
+    border-top-width: 0px;
+    border-left-width: 50px ;
+    border-right-width: 50px;
+    border-bottom-width: 50px;
+    text-align: center;
+}
+h3{
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+form{
+    font-size: 1.5em;
+}
+#sub
+{
+  background-color: goldenrod;  
+  margin-top: 5%;
+
+}

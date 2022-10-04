@@ -1,0 +1,13 @@
+body
+{
+    font-family: 'Dancing Script', cursive;
+    background-color: black;
+    color: white;
+    /* border-left-width: 150px; */
+    border:solid aqua;
+    border-top-width: 0px;
+    border-left-width: 50px ;
+    border-right-width: 50px;
+    border-bottom-width: 50px;
+    text-align: center;
+}
